@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Ansh:
 🔭 I’m currently working on AI Agentic Workflows, Distributed Systems<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on open-source AI infrastructure, developer tools, and systems projects.<br><br>🤝 I’m looking for help with scalable system design, OSS contributions, and building production-ready AI products.<br><br>🌱 I’m currently learning Distributed Systems in detail, agentic workflows<br><br>💬 Ask me about C++, Competitive Programming (1000+ LeetCode • Codeforces 1576), Next.js, TypeScript, tRPC, Prisma, Redis, RabbitMQ, Docker, and AI Agents.<br><br>⚡ Fun fact: I debug code for fun and still have electrical exams to pass.
 
 
